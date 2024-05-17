@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import landingPage from './views/ladingPage.vue';
 import blogPage from './views/blogPage.vue';
-import petList from './views/petList.vue';
+import petList from './views/petsList.vue';
 import petProfile from './views/petProfile.vue';
 import petRegister from './views/petRegister.vue';
 import contacter from './views/contacter.vue';
